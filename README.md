@@ -4,7 +4,12 @@ Atividade: Elaboração do Plano de Marketing
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
- <li> Iniciando o projeto. <a href="https://">Acessar</a> </li>
+ <li> Análise do ambiente (análise SWOT ou FOFA). <a href="https://">Acessar</a> </li>
+ <li> Definição do público-alvo. <a href="https://">Acessar</a> </li>
+ <li> Definição do posicionamento de mercado. <a href="https://">Acessar</a> </li>
+ <li> A importância da marca. <a href="https://">Acessar</a> </li>
+ <li> Definição de objetivos e metas. <a href="https://">Acessar</a> </li>
+ <li> Definição das estratégias de marketing. <a href="https://">Acessar</a> </li>
 </ul>
 
 <ol> 
